@@ -16,5 +16,5 @@ FEATURES:
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
 ### For more information:
-https://machinelearningprojects.net/face-recognition-based-attendance-system/
+https://www.linkedin.com/posts/ratnapravamohapatra_python-tkinter-facerecognition-activity-7276519457848516608-CzX7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE5xydgBEbfnL84rj79e3evuGsD__TWYX8o
 
